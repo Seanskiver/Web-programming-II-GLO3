@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tips>
+    <tip>
+        <author>Margerat</author>
+        <name>Always wear a helmet</name>
+        <description>Most motorcycle and bicycle accidents are lethal because the operator isn't wearing a helemet.</description>
+    </tip>
+    <tip>
+        <author>Kathy</author>
+        <name>Easy on the booze</name>
+        <description>Don't chug that entire bottole of Jack Daniels. If there is any suspicion of an alcohol overdose, call 911 for help. Don't try to guess the level of drunkenness.</description>
+    </tip>
+    <tip>
+        <author>Frank</author>
+        <name>Slow down!</name>
+        <description>It can wait. Obey the speed limit so no one gets hurt. Including you!</description>
+    </tip>
+    <tip>
+        <author>John</author>
+        <name>Inside isn't so bad</name>
+        <description>Yeah... You're probably better off jsut staying inside...</description>
+    </tip>
+</tips>
